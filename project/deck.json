@@ -1,0 +1,35 @@
+{
+  "v": 5,
+  "createdOnFiles": { "v": 1, "at": "2026-11-16T20:00:00Z" },
+  "lists": "css",
+  "format": { "v": 1, "shared": ["project/deck.css"] },
+  "title": "Rainoah — Plano de Marca 2027",
+  "order": [
+    "cover", "partida", "funil", "sem_posicao", "outras_marcas", "promessa", "identidade", "tese",
+    "concorrentes", "havaianas", "tramontina", "dove", "patagonia", "padroes",
+    "ecossistema", "gravacao6", "ideias", "rosto", "especialista", "evento", "humor", "cacau", "ryanair", "magalu", "editorial",
+    "creators_escolha", "creators_uso", "dores", "comunidade",
+    "plano", "metas", "decisoes"
+  ],
+  "sections": {
+    "abertura": { "description": "Abertura do plano de marca e conteúdo 2027.", "start": "cover" },
+    "diagnostico": { "description": "Onde estamos: alcance alto, captura baixa.", "start": "partida" },
+    "problema": { "description": "A marca ainda não tem uma frase; as marcas fortes têm.", "start": "sem_posicao" },
+    "promessa": { "description": "A fábrica brasileira do cuidado e o que ela exige.", "start": "promessa" },
+    "referencias": { "description": "Casos reais de marcas e o que copiar para a Rainoah.", "start": "concorrentes" },
+    "execucao": { "description": "Ideias centrais com casos reais, linha editorial e creators.", "start": "ecossistema" },
+    "plano": { "description": "Mapa de dores, comunidade, plano em três horizontes e metas.", "start": "dores" },
+    "fechamento": { "description": "O que decidir hoje.", "start": "decisoes" }
+  },
+  "faces": {
+    "space-grotesk": {
+      "family": "Space Grotesk",
+      "href": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap"
+    },
+    "inter": {
+      "family": "Inter",
+      "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
+    }
+  },
+  "designSystems": []
+}
