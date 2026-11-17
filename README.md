@@ -4,7 +4,7 @@ Cópia versionada dos arquivos-fonte da apresentação **"Rainoah — Plano de M
 
 A página original fica em: https://claude.ai/artifact/PSjpAnXWTbTMc7nDovNtnt (privada, só abre na conta que a criou).
 
-> **Repositório privado.** Os slides trazem dados internos da Rainoah (auditorias de Instagram e resumos de reuniões). Mantenha o repositório privado.
+> **Repositório público.** Os slides trazem dados internos da Rainoah (auditorias de Instagram e resumos de reuniões), e qualquer pessoa com o link consegue ver esse conteúdo.
 
 ## Estrutura
 
